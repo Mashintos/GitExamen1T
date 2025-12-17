@@ -1,6 +1,12 @@
 La vereda de la puerta de atrás
+<<<<<<< HEAD
 Calle Esperanza
+La realidad
+Cerca del suelo
+=======
+A fuego
 Dulce introducción al caos
 La realidad
 Si te vas
-Cerca del suelo
+Otra inútil canción para la paz
+>>>>>>> prueba
